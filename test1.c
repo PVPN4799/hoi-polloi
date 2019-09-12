@@ -5,5 +5,6 @@ int main()
     printf("Enter a number\n");
     scanf("%d", &a);
 	printf("Hi! Just a simple file to test Git functionality");
+	printf("Program's been updated")
 	return 0;
 }
